@@ -18,7 +18,7 @@ else
 		}catch(e){} 
 		if(j.length>2) 
 		{
-			var $r = $('<div class="__d_a_r_item" style="background-color:pink;">'+j+'</div>');
+			var $r = $('<div class="__d_a_r_item" style="background-color:#ACE;">'+j+'</div>');
 			$el.prepend($r);
 		} 
 	});
